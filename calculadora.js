@@ -31,7 +31,7 @@
         .botones {
             display: grid;
             grid-template-columns: repeat(4, 1fr);
-            gap: 5px;
+            gap: 6px;
         }
         button {
             width: 50px;
